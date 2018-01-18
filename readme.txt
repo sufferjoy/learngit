@@ -1,2 +1,1 @@
-my name is xue li.
-i am learning git.
+This is a Git remote repository.
